@@ -60,6 +60,9 @@
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="{{url('project/') }}">Proyectos</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="{{url('project/create') }}">Registrar Proyecto</a>
+                    </li>
                 </ul>
             </div>
 
